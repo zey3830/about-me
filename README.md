@@ -2,8 +2,8 @@
 
 ### Ze Zhen Yang
 
-#### School: High School of Telecommunication Arts and Technology (hstat)  
-###### Email: zey3830@hstat.org
+School: High School of Telecommunication Arts and Technology (hstat)  
+Email: zey3830@hstat.org
 
 **Class Schedule**
 
