@@ -1,10 +1,12 @@
-Ze Zhen Yang
+## About me
+
+#### Ze Zhen Yang
 
 zey3830@hstat.org
 
 High School of Telecommunication Arts and Technology (hstat)
 
-Class Schedule
+**Class Schedule**
 
 1. U.S History
 
